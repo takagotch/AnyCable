@@ -83,5 +83,3 @@ production:
   adapter: any_cable
 ```
 
-
-
