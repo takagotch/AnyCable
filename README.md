@@ -55,8 +55,6 @@ class MyChannel < ApplicationCable::Channel
     stream_from post
   end
 end
-
-
 ```
 
 ```
