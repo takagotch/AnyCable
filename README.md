@@ -81,7 +81,6 @@ production:
 # config/cable.yml
 production:
   adapter: any_cable
-  
 ```
 
 
